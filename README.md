@@ -3,4 +3,14 @@
 ## Repo ufficiale del corso git angulare 2023
 
 * **Contatti:** saccon.caterina@gmail.com
-* **Pagina github del corso:** https:/github.com/lichfolky//corso-git-2023
+* **Pagina github del corso:** https:/github.com/lichfolky//corso-git-202
+
+
+*testing code writing in markdown*
+
+
+```js
+function() {
+ console.log("what's up folk");
+}
+```
