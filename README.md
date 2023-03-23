@@ -14,3 +14,7 @@ function() {
  console.log("what's up folk");
 }
 ```
+
+- [] yes
+- [] no
+- [] maybe
