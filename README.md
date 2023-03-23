@@ -15,6 +15,6 @@ function() {
 }
 ```
 
-- [] yes
-- [] no
-- [] maybe
+- [x] yes
+- [ ] no
+- [ ] maybe
